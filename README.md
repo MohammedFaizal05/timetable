@@ -130,4 +130,4 @@ Execute the program
 ![html check](https://user-images.githubusercontent.com/120553195/232962150-f181ea49-f684-4f0d-a8ca-464891c4248e.png)
 
 # RESULT
-Thus the code has been executed successfully.
+Thus,the code has been excuted successfully.
